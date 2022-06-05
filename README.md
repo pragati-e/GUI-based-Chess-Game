@@ -1,11 +1,1 @@
-# csc413-SecondGame
-
-## Student Name  : Pragati Makani 
-## Student ID    : 920821704
-
-
-## src folder is to be used to store source code only.
-
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
+Chess is a game in which two players compete to bring their opponents' king into a checkmate position, in which no further movements on the board are possible. It implements all the basic Chess rules. Players can be chosen from a list of current players or generated from scratch. Statistics on users are updated as needed. Each pick prompts the program to display all feasible movements. Back and forward navigation is possible, and players may make their own moves at any moment, which cannot be undone and redone. It imposes restrictions if the King is under suspicion. It is a timed game, and if a player runs out of time, he forfeits his ability to move. My main goal was to get the project up and running with excellent OOP concepts and a solid framework that would allow for future customization and optimization. Coming from an engineering background, I frequently create a design that follows the core concepts and gets it operational before going in and optimizing it. In completing this assignment, I strictly adhered to this process. The game has a rudimentary statistics system (wins, losses, and draws) with the opportunity to reset them, as well as the ability to track progression and a simple computer opponent with the ability to change its "advancement" level and show movements in chess notation.
